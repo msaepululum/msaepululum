@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaepululum&theme=tokyo-night&hide_border=true&area=true)](https://github.com/msaepululum)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaepululum&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&point=58a6ff&line=58a6ff)](https://github.com/msaepululum)
 
 </div>
 
